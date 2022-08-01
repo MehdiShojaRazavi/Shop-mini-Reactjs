@@ -1,0 +1,25 @@
+.Banner {
+  position: absolute;
+  width: 100%;
+  height: 70%;
+  margin-bottom: 60px;
+}
+
+.textContainer h3 {
+  position: relative;
+  color: #696969;
+  font-size: 7rem;
+  top: 100px;
+  left: 10%;
+}
+.textContainer p {
+  position: relative;
+  color: #696969;
+  font-size: 4rem;
+  top: 100px;
+  left: 10%;
+}
+.textContainer span {
+  color: rgb(113, 113, 229);
+  font-weight: bold;
+}

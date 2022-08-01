@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background: #9e9e9e;
+  align-items: center;
+  padding: 0 50px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  font-weight: bold;
+}
+.list li {
+  padding: 15px;
+  cursor: pointer;
+  color: aliceblue;
+}
+.list li:hover{
+  color: #00f ;
+}

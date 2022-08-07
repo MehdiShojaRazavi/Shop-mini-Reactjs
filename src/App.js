@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Banner from './Components/Banner';
+import Cards from './Components/Cards';
 import Navbar from './Components/Navbar';
 
 class App extends Component {
@@ -8,6 +9,7 @@ class App extends Component {
       <div>
         <Navbar />
         <Banner />
+        <Cards />
       </div>
     )
   }
